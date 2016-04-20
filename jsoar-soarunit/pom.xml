@@ -31,10 +31,10 @@
             <artifactId>jsoar-core</artifactId>
             <version>0.14.4-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>edu.umich.soar</groupId>
-            <artifactId>sml</artifactId>
-            <version>9.3.2</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>edu.umich.soar</groupId>-->
+            <!--<artifactId>sml</artifactId>-->
+            <!--<version>9.3.2</version>-->
+        <!--</dependency>-->
     </dependencies>
 </project>
